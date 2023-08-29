@@ -1,8 +1,6 @@
--  Hi ( I’m [@josiah] )
--    {
--       // I’m interested in Acumatica
--    }
-- ( I’m currently learning Programing )
+-  Hi, I’m josiah 
+-  I’m interested in Acumatica
+-  I’m currently learning Programing 
 
 
 <!---
